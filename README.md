@@ -1,2 +1,1 @@
-# bell-integrator_test
-Тестовое задания для Bell Integrator
+# Тестовое задания для Bell Integrator
